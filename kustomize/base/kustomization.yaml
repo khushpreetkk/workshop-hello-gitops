@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: khushpreet/hello-gitops
-  newTag: test
+  newTag: 6ecd4d821f524c5c7db6bb41fdcb36e3d4c56854
